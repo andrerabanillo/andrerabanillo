@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre Rabanillo</h1>
-<h3 align="center">Computer Science student at the University of Guelph</h3>
+<h3 align="center">honours comp sci @ the university of guelph</h3>
 
 - 🔭 I’m currently working on [Outclass the Odds](https://github.com/andrerabanillo/outclasstheodds)
 
